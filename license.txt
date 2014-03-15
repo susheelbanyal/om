@@ -8,7 +8,7 @@ agree to comply with the terms and conditions of this license.
 PERMITTED USE
 You are permitted to use, copy, modify, and distribute the Software and its
 documentation, with or without modification, for any purpose, provided that
-the following conditions are met:
+the following conditions are met:mmm
 
 1. A copy of this license agreement must be included with the distribution.
 
